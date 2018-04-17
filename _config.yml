@@ -33,7 +33,7 @@
 title: "This is my house"
 subtitle: "Welcome to my blog"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
+  This is a blog site using a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
 author: lemonChar
 email: your-email@example.com

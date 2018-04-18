@@ -1,5 +1,5 @@
 # A Simple Blog Using Jekyll Theme
-This is personal blog for lemonChar.
+This is the personal blog for lemonChar.
 <!-- # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)

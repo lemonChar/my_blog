@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{%- assign _posts = site.posts | sort: 'date' | reverse -%}
-{%- include header.html scrolly_nav=_posts -%}
+{%- assign _articles = site.posts | sort: 'date' | reverse -%}
+{%- include header.html scrolly_nav=_articles -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
@@ -20,7 +20,7 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
-		{%- assign _content = _excerpt | append: _link -%}{%- endassign -%}
+		{%- assign _content = _excerpt | append: _link -%}
 		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
 	{%- endfor -%}
 </div>

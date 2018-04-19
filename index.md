@@ -6,6 +6,9 @@ layout: home
 title: My Great Homepage
 icon: fa-home
 order: 1
+---
+
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117766715-1"></script>
 <script>
@@ -15,4 +18,4 @@ order: 1
 
   gtag('config', 'UA-117766715-1');
 </script>
----
+</head>

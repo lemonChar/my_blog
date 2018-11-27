@@ -14,5 +14,6 @@ I love books! Here are some I'm reading now:
 4. 金宇澄: *繁花*
 5. 纳拉亚南：*区块链技术驱动金融*
 6. 葛亮: *北鸢*
+7. Martin Kleppmann: *Designing Data-Intensive Applications*
 
 source: [Douban](https://book.douban.com/people/64155138/)

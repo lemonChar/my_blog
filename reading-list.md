@@ -12,7 +12,7 @@ I love books! Here are some I'm reading now:
 2. 村上春树: *1Q84*
 3. 林语堂: *The Gay Genius*
 4. 金宇澄: *繁花*
-5. 纳拉亚南：*区块链技术驱动金融*
+5. 渡边淳一：*魂断阿寒*
 6. 葛亮: *北鸢*
 7. Martin Kleppmann: *Designing Data-Intensive Applications*
 

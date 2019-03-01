@@ -9,11 +9,12 @@ order: 3
 I love books! Here are some I'm reading now:
 
 1. 当年明月: *明朝那些事儿*
-2. 村上春树: *1Q84*
+2. 村上春树: *奇鸟行状录*
 3. 林语堂: *The Gay Genius*
 4. 金宇澄: *繁花*
-5. 渡边淳一：*魂断阿寒*
+5. 川端康成：*雪国*
 6. 葛亮: *北鸢*
 7. Martin Kleppmann: *Designing Data-Intensive Applications*
+8.高山一実：*Trapezium*
 
 source: [Douban](https://book.douban.com/people/64155138/)

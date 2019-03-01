@@ -1,7 +1,6 @@
 ---
 title: maybe you are also interested in these blogs
 icon:  fa-address-book
-style: "page"
 order: 5
 ---
 

@@ -15,6 +15,6 @@ I love books! Here are some I'm reading now:
 5. 川端康成：*雪国*
 6. 葛亮: *北鸢*
 7. Martin Kleppmann: *Designing Data-Intensive Applications*
-8.高山一実：*Trapezium*
+8. 高山一実：*Trapezium*
 
 source: [Douban](https://book.douban.com/people/64155138/)

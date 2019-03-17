@@ -12,7 +12,7 @@ I love books! Here are some I'm reading now:
 2. 村上春树: *奇鸟行状录*
 3. 林语堂: *The Gay Genius*
 4. 金宇澄: *繁花*
-5. 川端康成：*雪国*
+5. 贝托尔特.布莱希特：*伽利略传*
 6. 葛亮: *北鸢*
 7. Martin Kleppmann: *Designing Data-Intensive Applications*
 8. 三岛由纪夫：*我青春的漫游时代*

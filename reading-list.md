@@ -15,8 +15,8 @@ I love books! Here are some I'm reading now:
 5. 贝托尔特.布莱希特：*伽利略传*
 6. 葛亮: *北鸢*
 7. Martin Kleppmann: *Designing Data-Intensive Applications*
-8. 三岛由纪夫：*我青春的漫游时代*
+8. 拉莱·科林斯 / 多米尼克·拉皮埃尔：*巴黎烧了吗*
 9. 艾伦 A. A. 多诺万: *Go程序设计语言*
-10. 王澎：*造房子*
+10. Steven G. Laitz: *完全音乐理论教程*
 
 source: [Douban](https://book.douban.com/people/64155138/)

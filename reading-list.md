@@ -18,5 +18,6 @@ I love books! Here are some I'm reading now:
 8. 拉莱·科林斯 / 多米尼克·拉皮埃尔：*巴黎烧了吗*
 9. 古龙: *楚留香系列*
 10. Steven G. Laitz：*完全音乐理论教程*
+11. 丰子恺： *近世西洋十大音乐家故事*
 
 source: [Douban](https://book.douban.com/people/64155138/)

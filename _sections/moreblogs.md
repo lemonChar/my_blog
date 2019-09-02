@@ -1,6 +1,6 @@
 ---
 title: More blogs
-icon:  fa-address-book
+icon:  fa-check
 order: 5
 ---
 

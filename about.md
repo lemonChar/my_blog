@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+这里是不器用な者平凡的生活Log。
+帝都魔都两头跑。   
+日语、西语学习中。   
+想学会即兴伴奏的古典钢琴苦手。    
+练习板绘的素描爱好者。   
+看了很多日剧+欧美电影。    
+平时喜欢听jpop和话语欧美老歌。    
+退役二刺猿 现役坂道系紫绿DD 单推桥本奈奈未、高山一実、斋藤飞鸟、岩本莲加、平手友梨奈    
+NBA KD 纳什粉 兼杂系后卫打法研究者    
+杂食性阅读：推理、茅奖、村上春树、阿加莎、金庸及其他故事性强的小说。社会性研究也读、古典文学现代诗歌也读。科普性书籍也有涉猎   
+喜欢非大众化的旅游线路
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

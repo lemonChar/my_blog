@@ -9,7 +9,7 @@ order: 3
 I love books! Here are some I'm reading now:
 
 1. 当年明月: *明朝那些事儿*
-2.瑞·达利欧：*原则*
+2. 瑞·达利欧：*原则*
 3. 林语堂: *The Gay Genius*
 4. 梅耶 (Scott Meyers)：*Effective C++*
 5. 石黑一雄：*长日将尽*

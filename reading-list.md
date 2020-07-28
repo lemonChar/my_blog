@@ -18,7 +18,7 @@ I love books! Here are some I'm reading now:
 8. 拉莱·科林斯 / 多米尼克·拉皮埃尔：*巴黎烧了吗*
 9. 古龙: *楚留香系列*
 10. Steven G. Laitz：*完全音乐理论教程*
-11. 加西亚·马尔克斯：*霍乱时期的爱情*
+11. 吉本芭娜娜：*厨房*
 12.  Daniel Kahneman：*Thinking, Fast and Slow*
 13. 保罗·格雷厄姆：*Hackers and Painters*
 
